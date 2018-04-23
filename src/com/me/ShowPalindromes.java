@@ -9,8 +9,8 @@ public class ShowPalindromes {
         Scanner sc = new Scanner(System.in);
         int n, b, rev = 0;
 
-        System.out.print("Please put in the number of palindromes you would like to see " +
-                "returned, then press enter;\n");
+        System.out.print("\"Please type in the number that you would to see how many palindromes exist up to, " +
+                "then press enter;\"\n");
 
         int input = Integer.parseInt(sc.nextLine());
 

@@ -12,8 +12,24 @@ public class Main {
 
     public static void main(String[] args) {
 
-        ShowPalindromes.display();
+        //IsNumber.isActualNumber();
+        //ShowPalindromes.display();
+        Combined.both();
 
     }
     
 }
+
+
+/*
+results;
+
+Please type in the number that you would to see how many palindromes exist up to, then press enter;
+y
+That is not a number you HILLBILLY, now try again;
+100
+Thank you! Got 100
+Here are the palindromes that exist up to 100....
+0 1 2 3 4 5 6 7 8 9 11 22 33 44 55 66 77 88 99
+
+ */
