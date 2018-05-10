@@ -11,7 +11,7 @@ public class Combined {
         int inputNumber;
 
         do {
-            System.out.println("Please type in the number that you would to see how many palindromes " +
+            System.out.println("Please type in the number that you would want to see how many palindromes " +
                     "exist up to, then press enter;");
 
             while (!sc.hasNextInt()) {
